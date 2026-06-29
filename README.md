@@ -6,3 +6,6 @@ The laboratories in this repository are the practices established in the course 
 
 ### Laboratory 01 
 This lab teach how to start the notebook in Jupyter Lab using Amazon Sagemaker AI
+
+### Laboratory 02
+In this lab teach how to import data using pandas 
