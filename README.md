@@ -9,3 +9,6 @@ This lab teach how to start the notebook in Jupyter Lab using Amazon Sagemaker A
 
 ### Laboratory 02
 In this lab teach how to import data using pandas 
+
+### Laboratory 03
+In this lab learn how to modificate data using pandas
