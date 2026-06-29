@@ -1,0 +1,2 @@
+This is content in the new test2 file.
+This is additional content in the new file.
